@@ -1,10 +1,10 @@
 import React from 'react'
-import Hero from './Hero'
+import CarSearch from './CarSearch'
 
 const Home = () => {
   return (
     <>
-      <Hero />
+      <CarSearch />
     </>
   )
 }
